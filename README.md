@@ -8,6 +8,14 @@ This project was bootstrapped with :
 * [Redux](https://github.com/reactjs/redux)
 * [SASS Support](https://github.com/rickharrison/create-react-app-sass)
 
+### SASS Support
+
+If you prefer node-sass, you can eject your app with `npm run eject` and install that dependency and sass-loader :
+```
+npm install --save-dev node-sass sass-loader
+```
+Don't forget to modify your `webpack.config.js` in the folder /config.
+
 ### Note
 
 Below you will find some information on how to perform common tasks.<br>
