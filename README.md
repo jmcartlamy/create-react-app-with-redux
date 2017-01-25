@@ -6,15 +6,22 @@ This project was bootstrapped with :
 
 * [Create React App](https://github.com/facebookincubator/create-react-app)
 * [Redux](https://github.com/reactjs/redux)
-* [SASS Support](https://github.com/rickharrison/create-react-app-sass)
+* [Node SASS](https://github.com/sass/node-sass)
 
 ### SASS Support
 
-If you prefer node-sass, you can eject your app with `npm run eject` and install that dependency and sass-loader :
+This app have been ejected with `npm run eject` to install node-sass and sass-loader.
+
+### Usage
+
+In the project directory, you can run:
+
 ```
-npm install --save-dev node-sass sass-loader
+npm start
 ```
-Don't forget to modify your `webpack.config.js` in the folder /config.
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
 ### Note
 
