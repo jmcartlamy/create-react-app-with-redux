@@ -6,7 +6,7 @@ import configureStore from './store/configureStore.js';
 
 import App from './containers/App.js';
 
-import './index.scss';
+import './assets/index.scss';
 
 const store = configureStore();
 

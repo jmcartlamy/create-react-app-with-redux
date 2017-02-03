@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 import ExampleComponent from '../components/ExampleComponent.js'
-import logo from '../../assets/logo.svg';
+import logo from '../assets/logo.svg';
 
 /*
   Example with reducer / action :
