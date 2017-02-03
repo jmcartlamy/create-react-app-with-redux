@@ -1,6 +1,6 @@
 {
   "name": "Create-react-app-with-redux",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": true,
   "devDependencies": {
     "autoprefixer": "6.5.1",
