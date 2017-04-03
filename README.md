@@ -1,4 +1,4 @@
-## Create React App with Redux
+# Create React App with Redux
 
 Starter Pack with ReactJS and Redux.
 
@@ -8,13 +8,21 @@ This project was bootstrapped with :
 * [Redux](https://github.com/reactjs/redux)
 * [Node SASS](https://github.com/sass/node-sass)
 
-### SASS Support
+## SASS Support
 
 This app have been ejected with `npm run eject` to install node-sass and sass-loader.
 
-### Usage
+## Install
 
-In the project directory, you can run:
+Clone or download this repository and install dependencies :
+
+```
+npm install
+```
+
+## Usage
+
+In the project directory, you can run :
 
 ```
 npm start
